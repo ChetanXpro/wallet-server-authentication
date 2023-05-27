@@ -1,2 +1,2 @@
 
-### A example of wallet and server auth
+### A example of wallet and server authentication

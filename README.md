@@ -1,2 +1,2 @@
 
-### A example of wallet and server authentication
+### A example of web3 wallet and web server authentication
